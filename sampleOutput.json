@@ -1,0 +1,56 @@
+{    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "The Philadelphia Inquirer"
+    },
+    "author": "Rob Tornoe, Vinny Vella, Nick Vadala",
+    "title": "Danelo Cavalcante prison escape: Updates, search area, Chester County sightings - The Philadelphia Inquirer",
+    "description": "Authorities have sent an alert to residents in East Nantmeal Township to “stay vigilant” and lock doors as police search a new perimeter Monday night for Danelo Cavalcante.",
+    "url": "https://www.inquirer.com/news/pennsylvania/live/chester-county-prison-escape-danelo-cavalcante-manhunt-updates-20230911.html",
+    "urlToImage": "https://www.inquirer.com/resizer/SADpRY2rJr1YKuLPVANlj6BKuRM=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/UJ6BBPGEU5GSJJJQWFUPO3M4QI.jpg",
+    "publishedAt": "2023-09-12T04:18:45Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Homero De la Fuente",
+    "title": "Aaron Rodgers suffers game-ending ankle injury four plays into New York Jets’ debut and will need MRI - CNN",
+    "description": "Quarterback Aaron Rodgers, making his debut with the New York Jets, was carted off the field after suffering an ankle injury on just his fourth play in the team’s NFL game against the Buffalo Bills on Monday night.",
+    "url": "https://www.cnn.com/2023/09/11/sport/nfl-aaron-rodgers-injury-spt-intl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230912093100-aaron-rodgers-0911.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-09-12T03:44:00Z",
+    "content": "Quarterback Aaron Rodgers, making his debut with the New York Jets, was carted off the field after suffering an ankle injury on just his fourth play in the teams NFL game against the Buffalo Bills on… [+1408 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Buffalo Bills vs. New York Jets | 2023 Week 1 Game Highlights - NFL",
+    "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+    "url": "https://www.youtube.com/watch?v=Zk8DnHKqBRg",
+    "urlToImage": "https://i.ytimg.com/vi/Zk8DnHKqBRg/maxresdefault.jpg",
+    "publishedAt": "2023-09-12T03:38:37Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Doc Louallen",
+    "title": "Powerball jackpot reaches $522M. See winning numbers for Sept. 11. - USA TODAY",
+    "description": "The Powerball jackpot is heating up! No winning ticket drawn Saturday means the jackpot is an estimated $522 million ahead of Monday's drawing. See winning numbers.",
+    "url": "https://www.usatoday.com/story/money/2023/09/11/powerball-winning-numbers-monday-sept-11/70829108007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/07/16/USAT/8efffa66-5dad-43f4-a908-83ad85a0ac02-powerball-topper.png?crop=2702,1520,x46,y7&width=2702&height=1520&format=pjpg&auto=webp",
+    "publishedAt": "2023-09-12T03:02:37Z",
+    "content": "The Powerball jackpot is heating up. No winning ticket drawn Saturday means the Powerball jackpot is an estimated $522 million ahead of Monday's drawing.\r\nThe winning numbers were drawn just after 11… [+2895 chars]"
+    }]
+}
